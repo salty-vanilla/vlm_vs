@@ -1,4 +1,4 @@
-# VLM_VS: Vision Language Models for Visial Inspection
+# VLM_VS: Vision Language Models for Visual Inspection
 
 ## How to develop
 基本的に以下のコマンドでshellに入った上で以下の作業をする
